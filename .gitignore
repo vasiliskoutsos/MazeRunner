@@ -1,0 +1,18 @@
+
+Library/
+Temp/
+Obj/
+Build*/
+Logs/
+Assets/TextMesh Pro/Examples & Extras/
+Library/PackageCache/
+
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+.DS_Store
+Thumbs.db
